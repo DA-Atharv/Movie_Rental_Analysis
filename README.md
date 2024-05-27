@@ -8,7 +8,9 @@ The Movie Rental Analysis Capstone Project navigates through the Sakila DVD Rent
 Furthermore, the project delved into Exploratory Data Analysis (EDA), utilizing SQL queries to address specific problem statements surrounding customer behavior, film inventory, staff performance, and store operations. Excel served as a robust tool for generating informative visualizations, shedding light on the outcomes of the SQL analysis. Dynamic Power BI dashboards were crafted to provide interactive insights, covering areas such as location, rental, film revenue, customer segmentation, and actor analysis. These dashboards, along with a comprehensive report and documentation, aim to empower rental store owners with actionable recommendations, fostering data-driven decision-making for sustained success in the competitive DVD rental market.
 
 ## Dashboard:
-
+| Title | Description |
+| --- | --- |
+| Location Analysis |  ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66) This snapshot comprehensively analyzes film performance metrics, including rental statistics and revenue analysis. Dive into detailed insights regarding which films are the most rented and their corresponding revenue contributions, facilitating strategic decisions related to film acquisition and inventory management. |
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66)
 
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/38410e8f-0b45-4c9f-a6d6-3b0cdb99e609)
