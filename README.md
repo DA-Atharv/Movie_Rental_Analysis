@@ -13,15 +13,16 @@ The Movie Rental Analytics capstone project delves deep into the Sakila Dataset,
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/d7c2af35-7c17-4039-af1f-b8591a9f6c35)
 ### Rental Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/620f16d7-0351-488a-9af5-eca2b1aa0384)
-### Actor Analysis:
+### Actor Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/1e05ee5d-cfdb-4363-9078-e2a64c1f96a3)
 
 ## Key Insights:
 - Customer Insight for Tailored Marketing: Utilize analysis of customer preferences, rental behaviors, and demographics to craft targeted marketing campaigns and personalized content offerings, fostering heightened customer satisfaction and loyalty.
+  
 - Film Revenue Optimization: Evaluate film inventory, rental rates, and popularity to identify high-performing titles that drive revenue and customer engagement, guiding strategic decisions on content acquisition and inventory management for sustained profitability.
-
+  
 - Staff Performance Enhancement: Assess staff productivity metrics and tenure to refine workforce management strategies, ensuring streamlined store operations and elevated customer service standards.
-
+  
 - Revenue Trend Forecasting: Recognize revenue fluctuations, seasonal patterns, and geographical variations to inform strategic decision-making aimed at maximizing revenue potential and driving business growth.
 
 - Market Expansion Insights: Identify lucrative markets, top-performing genres, and key customer segments to inform targeted market development initiatives, facilitating expansion into new territories and audience demographics.
