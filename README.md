@@ -8,22 +8,11 @@ The Movie Rental Analysis Capstone Project navigates through the Sakila DVD Rent
 Furthermore, the project delved into Exploratory Data Analysis (EDA), utilizing SQL queries to address specific problem statements surrounding customer behavior, film inventory, staff performance, and store operations. Excel served as a robust tool for generating informative visualizations, shedding light on the outcomes of the SQL analysis. Dynamic Power BI dashboards were crafted to provide interactive insights, covering areas such as location, rental, film revenue, customer segmentation, and actor analysis. These dashboards, along with a comprehensive report and documentation, aim to empower rental store owners with actionable recommendations, fostering data-driven decision-making for sustained success in the competitive DVD rental market.
 
 ## Dashboard:
-| Location Analysis | Customer Analysis |
-|-------------|-------------|
-| ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66) | ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/38410e8f-0b45-4c9f-a6d6-3b0cdb99e609)
- |
-| This analysis explores rental patterns and preferences across diverse geographical locations. Gain insights into regional variations in film preferences and rental behaviors, enabling targeted marketing strategies and localized inventory management. | Gain in-depth insights into customer behavior and preferences through this analysis. Understand customer segmentation, rental patterns, and preferences, enabling personalized marketing strategies and enhanced customer experiences. |
-
----
-
-| Patient Outcome Analysis | Healthcare Provider Metrics |
-|-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/1fcabbaa-a065-4fba-9268-1af8d5df3ab5) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/642497d3-6cfe-4fd8-b079-3eb9c6defadb) |
-| Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
+- Location Analysis Dashboard: 
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66)
-
+#### Customer ANalysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/38410e8f-0b45-4c9f-a6d6-3b0cdb99e609)
-
+#### 
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/1ab509b7-9959-424a-beb2-9d2a13567914)
 
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/d7c2af35-7c17-4039-af1f-b8591a9f6c35)
@@ -34,7 +23,6 @@ Furthermore, the project delved into Exploratory Data Analysis (EDA), utilizing 
 
 ## Key Insights:
 - Customer Insight for Tailored Marketing: Utilize analysis of customer preferences, rental behaviors, and demographics to craft targeted marketing campaigns and personalized content offerings, fostering heightened customer satisfaction and loyalty.
-
 - Film Revenue Optimization: Evaluate film inventory, rental rates, and popularity to identify high-performing titles that drive revenue and customer engagement, guiding strategic decisions on content acquisition and inventory management for sustained profitability.
 
 - Staff Performance Enhancement: Assess staff productivity metrics and tenure to refine workforce management strategies, ensuring streamlined store operations and elevated customer service standards.
