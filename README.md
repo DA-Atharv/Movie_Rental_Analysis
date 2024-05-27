@@ -7,13 +7,13 @@ The Movie Rental Analytics capstone project delves deep into the Sakila Dataset,
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66)
 ### Customer Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/38410e8f-0b45-4c9f-a6d6-3b0cdb99e609)
-###
+### Film Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/1ab509b7-9959-424a-beb2-9d2a13567914)
-### 
+### Revenue Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/d7c2af35-7c17-4039-af1f-b8591a9f6c35)
-
+### Rental Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/620f16d7-0351-488a-9af5-eca2b1aa0384)
-
+### Actor Analysis:
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/1e05ee5d-cfdb-4363-9078-e2a64c1f96a3)
 
 ## Key Insights:
