@@ -10,7 +10,7 @@ Furthermore, the project delved into Exploratory Data Analysis (EDA), utilizing 
 ## Dashboard:
 | Title | Description |
 | --- | --- |
-| Location Analysis |  ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66) This snapshot comprehensively analyzes film performance metrics, including rental statistics and revenue analysis. Dive into detailed insights regarding which films are the most rented and their corresponding revenue contributions, facilitating strategic decisions related to film acquisition and inventory management. |
+| Location Analysis ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66) |   This snapshot comprehensively analyzes film performance metrics, including rental statistics and revenue analysis. Dive into detailed insights regarding which films are the most rented and their corresponding revenue contributions, facilitating strategic decisions related to film acquisition and inventory management. |
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/5a715b49-4649-4497-a5ef-41db7ca85f66)
 
 ![image](https://github.com/DA-Atharv/Movie_Rental_Analysis/assets/159448408/38410e8f-0b45-4c9f-a6d6-3b0cdb99e609)
